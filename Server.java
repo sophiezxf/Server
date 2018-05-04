@@ -44,7 +44,7 @@ public class Server extends ServerSocket implements Runnable {
 		
 	/**
 	 * Construct the server, and create a server socket,
-	 * bound to the specified port.
+	 * bound to the specified port...
 	 * 
 	 * @throws IOException IO error when opening the socket.
 	 */
