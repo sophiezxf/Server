@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.net.SocketTimeoutException;
 
 /**
- * Client class for SafeWalkServer
+ * Client class for Safe Walk Server!!
  */
 public class Client implements Runnable {
  private final String host;
